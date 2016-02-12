@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Workshop on Visualization for Deep Learning
+# Workshop on Visualization for Deep Learning
 
 ##Organizers:
 
