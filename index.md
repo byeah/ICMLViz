@@ -2,17 +2,17 @@
 layout: default
 ---
 
-#Workshop on Visualization for Deep Learning#
+#Workshop on Visualization for Deep Learning
 
-##Organizers:##
+##Organizers:
 
-#####Biye Jiang (UC Berkeley, bjiang@berkeley.edu)#####
+#####Biye Jiang (UC Berkeley, bjiang@berkeley.edu)
 	
-#####John Canny (UC Berkeley, canny@berkeley.edu)#####
+#####John Canny (UC Berkeley, canny@berkeley.edu)
 
-#####Polo Chau (Georgia Tech, polo@gatech.edu)#####
+#####Polo Chau (Georgia Tech, polo@gatech.edu)
 
-#####Aditya Khosla (MIT, khosla@csail.mit.edu)#####
+#####Aditya Khosla (MIT, khosla@csail.mit.edu)
 
 ##Abstract##
 
